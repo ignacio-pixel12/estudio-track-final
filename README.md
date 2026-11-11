@@ -4,6 +4,8 @@ Aplicación web para organizar el estudio: materias, tareas y sesiones de **Pomo
 
 > **Trabajo final — Generación T**
 > Ignacio García Belvedere · `Ignaciogbelvedere@gmail.com`
+>
+> Repositorio: https://github.com/ignacio-pixel12/estudio-track-final
 
 ---
 

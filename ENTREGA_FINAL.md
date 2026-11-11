@@ -5,8 +5,8 @@
 **Email:** Ignaciogbelvedere@gmail.com
 **Fecha:** Noviembre 2026
 **Proyecto:** Estudio Track — gestor de estudio con Pomodoro
-**Repositorio:** `https://github.com/<usuario>/estudio-track-final` _(completar después del push)_
-**Demo:** `https://<sitio>.netlify.app` _(completar después del deploy)_
+**Repositorio:** https://github.com/ignacio-pixel12/estudio-track-final
+**Demo:** _No desplegado todavía; los pasos están en `docs/deploy.md`._
 
 ---
 
@@ -540,8 +540,8 @@ Cada etapa dejó un artefacto verificable, no solo código.
 - [x] CI con GitHub Actions
 - [x] README con instrucciones
 - [x] Documento consolidado de entrega
-- [ ] Push del repositorio a GitHub _(paso del alumno)_
-- [ ] Deploy en Neon + Render + Netlify _(paso del alumno)_
+- [x] Push del repositorio a GitHub
+- [ ] Deploy en Neon + Render + Netlify _(opcional, ver `docs/deploy.md`)_
 - [ ] Link del repo pegado en el campus _(paso del alumno)_
 
 ---
@@ -550,12 +550,12 @@ Cada etapa dejó un artefacto verificable, no solo código.
 
 | Recurso | URL |
 | --- | --- |
-| Repositorio | `https://github.com/<usuario>/estudio-track-final` |
-| Demo | `https://<sitio>.netlify.app` |
-| API | `https://<servicio>.onrender.com/api/health` |
+| Repositorio | https://github.com/ignacio-pixel12/estudio-track-final |
+| Demo | _No desplegado (pasos en `docs/deploy.md`)_ |
+| API | _Local: `http://localhost:3000/api/health`_ |
 | Documentación | `docs/` dentro del repo |
 
-> Reemplazar los placeholders después de publicar. El ZIP de entrega incluye el proyecto completo con la documentación.
+> El repositorio es público y contiene el proyecto completo, los tests y la documentación. El ZIP de entrega es un respaldo del mismo contenido.
 
 ---
 
