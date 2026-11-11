@@ -3,7 +3,7 @@
 Aplicación web para organizar el estudio: materias, tareas y sesiones de **Pomodoro** en un solo lugar. Nació como TP del Módulo 2 y llega al trabajo final como una aplicación full-stack con API REST, base de datos PostgreSQL, tests automatizados y deploy en la nube.
 
 > **Trabajo final — Generación T**
-> Ignacio García Belvedere · DNI 49.257.438 · `Ignaciogbelvedere@gmail.com`
+> Ignacio García Belvedere · `Ignaciogbelvedere@gmail.com`
 
 ---
 

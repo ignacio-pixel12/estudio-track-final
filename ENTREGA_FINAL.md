@@ -2,7 +2,6 @@
 
 **Materia:** Generación T
 **Alumno:** Ignacio García Belvedere
-**DNI:** 49.257.438
 **Email:** Ignaciogbelvedere@gmail.com
 **Fecha:** Noviembre 2026
 **Proyecto:** Estudio Track — gestor de estudio con Pomodoro
